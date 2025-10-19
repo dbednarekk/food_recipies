@@ -1,6 +1,11 @@
 # Rename this file to languages.toml to enable multilingual support
+[pl]
+languageName = "Polski"
+languagedirection = "ltr"
+title = "Przepisy Kulinarne"
+weight = 1
 [en]
 languageName = "English"
 languagedirection = "ltr"
-title = "Example Site"
+title = "Food Recipies"
 weight = 1
