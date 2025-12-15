@@ -1,16 +1,15 @@
 ---
-title: Domowa Tortilla
-description: Przyszny i prosty przepis na domową tortile
+title: domowa tortilla
+description: Przyszny i prosty przepis na domowa tortilla
 slug: tortilla
-date: 2025-10-19 00:00:00+0000
+date: 2025-10-19
 image: cover.png
-categories:
-  - Obiad
+categories: Obiad
 tags:
   - Obiad
   - tortilla
   - szybkie
-weight: 1 # You can add weight to some posts to override the default sorting (date descending)
+weight: 1
 ---
 
 ## Wstęp
