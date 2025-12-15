@@ -1,10 +1,10 @@
 ---
 title: pizza serek wiejski
 description: Przyszny i prosty przepis na pizza serek wiejski
-slug: tortilla
+slug: pizza-sererk-wiejski
 date: 2025-10-26
 image: cover.png
-categories:
+categories: Obiad
 tags:
 weight: 1
 ---

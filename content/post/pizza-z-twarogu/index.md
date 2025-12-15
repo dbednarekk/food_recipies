@@ -1,10 +1,10 @@
 ---
 title: pizza z twarogu
 description: Przyszny i prosty przepis na pizza z twarogu
-slug: tortilla
+slug: pizza-twarog
 date: 2025-10-26
 image: cover.png
-categories:
+categories: Obiad
 tags:
 weight: 1
 ---

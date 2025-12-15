@@ -1,10 +1,10 @@
 ---
 title: tortilla lemon chicken
 description: Przyszny i prosty przepis na tortilla lemon chicken
-slug: tortilla
+slug: tortilla-lemon-chicken
 date: 2025-10-21
 image: cover.png
-categories:
+categories: Obiad
 tags:
 weight: 1
 ---
