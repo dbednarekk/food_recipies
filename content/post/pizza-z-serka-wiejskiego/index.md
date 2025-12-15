@@ -6,6 +6,7 @@ date: 2025-10-26
 image: cover.png
 categories: Obiad
 tags:
+  - Obiad
 weight: 1
 ---
 ##  Wstęp
